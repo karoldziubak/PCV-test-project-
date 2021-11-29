@@ -1,0 +1,40 @@
+LT:
+Kolo 0: 100 1 0.64
+Kolo 1: 190 0.42 1
+Kolo 2: 38 0.96 1
+Kolo 3: 278 1 0.23
+Kolo 4: 75 0.16 1
+Kolo 5: 158 0.03 1
+Kolo 6: 108 1 0.27
+Kolo 7: 287 1 0.7
+LP:
+Kolo 0: 245 1 0.46
+Kolo 1: 318 1 0.31
+Kolo 2: 13 1 0.98
+Kolo 3: 238 1 0.22
+Kolo 4: 163 1 0.34
+Kolo 5: 176 1 0.59
+Kolo 6: 246 1 0.8
+Kolo 7: 58 0.72 1
+PP:
+Kolo 0: 273 0.55 1
+Kolo 1: 39 1 0.19
+Kolo 2: 288 0.11 1
+Kolo 3: 60 1 0.51
+Kolo 4: 184 1 0.28
+Kolo 5: 327 1 0.97
+Kolo 6: 8 0.81 1
+Kolo 7: 186 0.91 1
+PT:
+Kolo 0: 287 1 0.00999999
+Kolo 1: 198 1 0.27
+Kolo 2: 163 0.06 1
+Kolo 3: 220 0.99 1
+Kolo 4: 74 1 0.0599999
+Kolo 5: 17 0.66 1
+Kolo 6: 322 1 0.58
+Kolo 7: 56 0.81 1
+Zakres kolorow: pelen
+Tryb zanikania krawedzi: liniowy
+Tryb punktu fiksacyjnego: pulsujacy i rotujacy
+Imie badanego: NoName

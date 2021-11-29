@@ -1,0 +1,30 @@
+C:\Users\Karol\Desktop\KOlory test\TestownikKolorow\TestownikKolorow\bin\Debug\TestownikKolorow.exe.config
+C:\Users\Karol\Desktop\KOlory test\TestownikKolorow\TestownikKolorow\bin\Debug\TestownikKolorow.exe
+C:\Users\Karol\Desktop\KOlory test\TestownikKolorow\TestownikKolorow\bin\Debug\TestownikKolorow.pdb
+C:\Users\Karol\Desktop\KOlory test\TestownikKolorow\TestownikKolorow\obj\Debug\TestownikKolorow.csprojAssemblyReference.cache
+C:\Users\Karol\Desktop\KOlory test\TestownikKolorow\TestownikKolorow\obj\Debug\TestownikKolorow.Properties.Resources.resources
+C:\Users\Karol\Desktop\KOlory test\TestownikKolorow\TestownikKolorow\obj\Debug\TestownikKolorow.csproj.GenerateResource.cache
+C:\Users\Karol\Desktop\KOlory test\TestownikKolorow\TestownikKolorow\obj\Debug\TestownikKolorow.csproj.CoreCompileInputs.cache
+C:\Users\Karol\Desktop\KOlory test\TestownikKolorow\TestownikKolorow\obj\Debug\TestownikKolorow.exe
+C:\Users\Karol\Desktop\KOlory test\TestownikKolorow\TestownikKolorow\obj\Debug\TestownikKolorow.pdb
+C:\Users\Karol\Desktop\KOlory test\TestownikKolorow\TestownikKolorow\obj\Debug\TestownikKolorow.Form1.resources
+C:\Users\Karol\Desktop\Coding\CodeBlocks (Cpp)\KOlory test z interfejsem\TestownikKolorow\TestownikKolorow\bin\Debug\TestownikKolorow.exe.config
+C:\Users\Karol\Desktop\Coding\CodeBlocks (Cpp)\KOlory test z interfejsem\TestownikKolorow\TestownikKolorow\bin\Debug\TestownikKolorow.exe
+C:\Users\Karol\Desktop\Coding\CodeBlocks (Cpp)\KOlory test z interfejsem\TestownikKolorow\TestownikKolorow\bin\Debug\TestownikKolorow.pdb
+C:\Users\Karol\Desktop\Coding\CodeBlocks (Cpp)\KOlory test z interfejsem\TestownikKolorow\TestownikKolorow\obj\Debug\TestownikKolorow.csprojAssemblyReference.cache
+C:\Users\Karol\Desktop\Coding\CodeBlocks (Cpp)\KOlory test z interfejsem\TestownikKolorow\TestownikKolorow\obj\Debug\TestownikKolorow.Form1.resources
+C:\Users\Karol\Desktop\Coding\CodeBlocks (Cpp)\KOlory test z interfejsem\TestownikKolorow\TestownikKolorow\obj\Debug\TestownikKolorow.Properties.Resources.resources
+C:\Users\Karol\Desktop\Coding\CodeBlocks (Cpp)\KOlory test z interfejsem\TestownikKolorow\TestownikKolorow\obj\Debug\TestownikKolorow.csproj.GenerateResource.cache
+C:\Users\Karol\Desktop\Coding\CodeBlocks (Cpp)\KOlory test z interfejsem\TestownikKolorow\TestownikKolorow\obj\Debug\TestownikKolorow.csproj.CoreCompileInputs.cache
+C:\Users\Karol\Desktop\Coding\CodeBlocks (Cpp)\KOlory test z interfejsem\TestownikKolorow\TestownikKolorow\obj\Debug\TestownikKolorow.exe
+C:\Users\Karol\Desktop\Coding\CodeBlocks (Cpp)\KOlory test z interfejsem\TestownikKolorow\TestownikKolorow\obj\Debug\TestownikKolorow.pdb
+C:\Users\Karol\OneDrive - Politechnika Wroclawska\Kolory test z interfejsem\TestownikKolorow\TestownikKolorow\bin\Debug\TestownikKolorow.exe.config
+C:\Users\Karol\OneDrive - Politechnika Wroclawska\Kolory test z interfejsem\TestownikKolorow\TestownikKolorow\bin\Debug\TestownikKolorow.exe
+C:\Users\Karol\OneDrive - Politechnika Wroclawska\Kolory test z interfejsem\TestownikKolorow\TestownikKolorow\bin\Debug\TestownikKolorow.pdb
+C:\Users\Karol\OneDrive - Politechnika Wroclawska\Kolory test z interfejsem\TestownikKolorow\TestownikKolorow\obj\Debug\TestownikKolorow.csprojAssemblyReference.cache
+C:\Users\Karol\OneDrive - Politechnika Wroclawska\Kolory test z interfejsem\TestownikKolorow\TestownikKolorow\obj\Debug\TestownikKolorow.Form1.resources
+C:\Users\Karol\OneDrive - Politechnika Wroclawska\Kolory test z interfejsem\TestownikKolorow\TestownikKolorow\obj\Debug\TestownikKolorow.Properties.Resources.resources
+C:\Users\Karol\OneDrive - Politechnika Wroclawska\Kolory test z interfejsem\TestownikKolorow\TestownikKolorow\obj\Debug\TestownikKolorow.csproj.GenerateResource.cache
+C:\Users\Karol\OneDrive - Politechnika Wroclawska\Kolory test z interfejsem\TestownikKolorow\TestownikKolorow\obj\Debug\TestownikKolorow.csproj.CoreCompileInputs.cache
+C:\Users\Karol\OneDrive - Politechnika Wroclawska\Kolory test z interfejsem\TestownikKolorow\TestownikKolorow\obj\Debug\TestownikKolorow.exe
+C:\Users\Karol\OneDrive - Politechnika Wroclawska\Kolory test z interfejsem\TestownikKolorow\TestownikKolorow\obj\Debug\TestownikKolorow.pdb
